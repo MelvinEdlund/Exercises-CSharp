@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAML", "XAML\XAML.csproj", "{C066B17B-889E-48AF-A8F9-4F3116928E83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Kontroller", "WPF_Kontroller\WPF_Kontroller.csproj", "{D98B6904-0F81-4D92-910A-6D42BE9BD47E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C066B17B-889E-48AF-A8F9-4F3116928E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C066B17B-889E-48AF-A8F9-4F3116928E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C066B17B-889E-48AF-A8F9-4F3116928E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98B6904-0F81-4D92-910A-6D42BE9BD47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98B6904-0F81-4D92-910A-6D42BE9BD47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98B6904-0F81-4D92-910A-6D42BE9BD47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98B6904-0F81-4D92-910A-6D42BE9BD47E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

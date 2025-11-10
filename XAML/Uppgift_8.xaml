@@ -15,7 +15,7 @@
         
         <StackPanel Grid.Column="0" >
             <Label Width="300">Students</Label>
-            <ListBox x:Name="StudentList" Height="300" Width="300">
+            <ListBox x:Name="StudentList" Height="350" Width="300">
                 <ListBoxItem>Kalle Andersson</ListBoxItem>
                 <ListBoxItem>Anders Karlsson</ListBoxItem>
                 <ListBoxItem>Camilla Johansson</ListBoxItem>
