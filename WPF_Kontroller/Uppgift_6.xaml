@@ -13,7 +13,7 @@
             <Label Width="300">Students</Label>
             <ListBox x:Name="StudentList" Height="350" Width="300"
                      DisplayMemberPath="FullName"/>
-        </StackPanel>
+        </StackPanel> 
 
         <!-- Höger: formulär -->
         <StackPanel Grid.Column="1"
